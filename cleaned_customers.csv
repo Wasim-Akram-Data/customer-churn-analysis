@@ -1,0 +1,16 @@
+Customer_ID,Name,Age,City,Subscription,Monthly_Bill,Tenure,Churn
+101,Aman,22,Delhi,Basic,500,6,Yes
+102,Rahul,30,Mumbai,Premium,1200,18,No
+103,Sara,27,Pune,Standard,800,10,Yes
+104,Ali,35,Delhi,Premium,1500,24,No
+105,Zoya,29,Hyderabad,Basic,600,8,Yes
+106,Rohan,40,Mumbai,Premium,1800,36,No
+107,Neha,24,Pune,Basic,550,5,Yes
+108,Karan,32,Delhi,Standard,900,15,No
+109,Aisha,28,Hyderabad,Premium,1400,20,No
+110,Vikas,26,Mumbai,Basic,650,7,Yes
+111,Meena,31,Pune,Standard,850,12,No
+112,Arjun,45,Delhi,Premium,2000,48,No
+113,Sana,23,Hyderabad,Basic,500,4,Yes
+114,Imran,38,Mumbai,Premium,1700,30,No
+115,Priya,27,Pune,Standard,950,14,Yes
