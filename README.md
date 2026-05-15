@@ -1,5 +1,7 @@
 # 📊 Customer Churn Analysis
 
+<img width="743" height="495" alt="customer churn" src="https://github.com/user-attachments/assets/e3d1a1be-4afc-4c84-b7c9-eafb5230d888" />
+
 ## 📌 Project Overview
 This project analyzes customer churn data using Python, Pandas, and NumPy.
 
